@@ -166,3 +166,5 @@ my_mnist_logs/
 my_cifar10_logs/
 my_model_logs/
 *.keras
+
+unsupervised_learning/deep_learning/RNN/jsb_chorales/
